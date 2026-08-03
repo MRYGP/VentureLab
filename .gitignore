@@ -1,0 +1,4 @@
+# Local or private working material
+/private/
+*.private.md
+*.local.md
