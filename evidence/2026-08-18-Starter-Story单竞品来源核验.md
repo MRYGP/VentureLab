@@ -16,6 +16,10 @@
 | SS-06 | Reddit 是早期分发，2020 后 SEO 成为核心增长动作 | `F-P` | [Pat Walls 长篇复盘](https://patwalls.com/)；[Indie Hackers 访谈](https://www.indiehackers.com/podcast/102-quick-chat-with-pat-walls) | 创始人有塑造增长叙事的利益 | 创始人对自己采取动作和时间线的陈述 | 流量归因、渠道真实占比、可复制性 | 已核原文 | 同期分析或后台数据推翻该归因 |
 | SS-07 | 创始人称收购前已有 10K+ 付费会员、多百万收入 | `F-P` | [Pat Walls 收购公告](https://www.linkedin.com/posts/patrickwalls_most-overnight-successes-take-about-8-years-activity-7432053255209238529-ertd)；规模数字见[公开嵌入该公告的转述](https://www.linkedin.com/posts/thomassmale_hubspot-acquires-youtube-based-media-brand-activity-7431763416861777920-8F-I) | 卖方有强调成就的利益；转述可能丢失口径 | 创始人公开声称的规模 | 审计后会员定义、活跃/历史累计、利润 | 收购公告已核；规模数字按公开转述、非独立核验处理 | 交易或财务资料出现相反口径 |
 | SS-08 | 当前产品评价总体偏正，但存在课程浅、退款/支持不满 | `I` | [Trustpilot Starter Story](https://www.trustpilot.com/review/www.starterstory.com)；[Reddit 4x4 购买者帖子](https://www.reddit.com/r/SideProject/comments/1p1o8xs/i_did_starter_story_4x4_build_paid_for_it/)；[Reddit FakeGuru 投诉](https://www.reddit.com/r/FakeGuru/comments/1odde61/stay_away_from_starters_story/) | 评价者身份、动机、是否被邀请不完整；平台有评论业务利益 | 存在这些正负叙述，可生成访谈问题 | 总体满意率、投诉发生率、真实付款和责任归因 | 页面已核，身份未核 | 可验证订单与全量退款/留存数据出现 |
+| SS-09 | 收购时 HubSpot 称 Starter Story 有 80万+ YouTube 订阅、30万 newsletter 订阅、4,500+ 案例/访谈，并触达早期创始人 | `F-P` | [HubSpot 官方收购说明](https://blog.hubspot.com/marketing/hubspot-starter-story-acquisition)，收购方官方内容 | 收购方有展示交易价值的利益 | 官方对标的规模口径、受众定位及收购理由 | 审计后的独立流量、重合用户、实际转化与 ROI | 已核原文 | 后续监管或平台后台数据出现相反口径 |
+| SS-10 | 创始人称视频最终成为最大增长引擎，纯信息订阅下降，用户更愿为观点、结果、问责和 Bootcamp 付费 | `F-P` | [Simon Owens 对 Pat Walls 的 2026 访谈与逐字稿](https://podscan.fm/podcasts/the-business-of-content-with-simon-owens/episodes/inside-the-youtube-strategy-that-turned-starter-story-into-a-2m-media-brand)，创始人一手访谈、第三方承载 | 创始人有塑造转型和出售叙事的利益 | 创始人对渠道、订阅与产品转型的直接陈述 | 后台渠道归因、各产品收入比例、用户总体付费原因 | 已核逐字稿 | 后台数据或同期财务材料推翻其归因 |
+| SS-11 | 2025 年 Pat Walls 公开提出 HubSpot 应收购 Starter Story，并称 SEO 船在下沉、HubSpot 应更重押 YouTube | `F-P` | [公开引用并显示 Pat Walls 原帖的 X 页面](https://x.com/techie_piyush/status/2026319107709116862/photo/1)，原帖日期显示 2025-09-23；原帖直接抓取受限 | 创始人当时有吸引潜在买方与宣传视频资产的利益 | 该公开表述曾出现及其措辞 | 它是否直接导致交易；SEO 对 Starter Story 的实际衰退幅度 | 已核公开引用，未直取原帖 | 原作者否认、原帖上下文改变含义 |
+| SS-12 | 当前首页主入口是免费数据库换邮箱；未检出 ChatGPT 导出字样，但页面仍含 Build 产品介绍 | `F-P` | [Starter Story 当前首页](https://www.starterstory.com/)，2026-08-18 页面快照 | 公司有获客和销售利益 | 当前首页可见文案与页面结构；“付费产品彻底消失”和“首页明写导出 ChatGPT”均不成立 | 登录后功能、其他页面能力、真实点击与转化 | 已核原文 | 页面更新或登录后出现相应功能 |
 
 ## 二、当前产品与价格快照
 
@@ -39,13 +43,22 @@
 
 来源：[Indie Hackers 访谈](https://www.indiehackers.com/podcast/102-quick-chat-with-pat-walls)、[2019 里程碑](https://www.indiehackers.com/product/starter-story/100k-visitors--LnnN80iScK_6q8ARA3c)。均为创始人自述。
 
-### 2020—2025：SEO 与多层变现
+### 2020—2023：SEO 与多层变现
 
 - 创始人称将内容重新包装为搜索需求页面后，自然流量增长；
 - 2022 年自述收入结构约为 premium 38%、广告/赞助 57%、affiliate 5%，并称有约 2,500 活跃会员；
 - 后续增加社区、课程、数据库和 build 产品。
 
 来源：[Pat Walls 长篇复盘](https://patwalls.com/)。这些数字是历史快照与创始人自述，不能外推到 2026。
+
+### 2023—2026 初：视频与行动产品
+
+- 创始人称 2023 年开始重押视频；精确起点主要来自其公开复盘，后台投入数据未见；
+- 2026 年直接访谈中，主持人与创始人把 Reddit、SEO、YouTube 描述为连续的分发迁移，并称视频最终成为最大增长引擎；
+- 创始人称纯信息订阅的转化与留存下降，而带观点、结果、问责和结构化过程的 Build/Bootcamp 更能获得付款；
+- HubSpot 官方在收购说明中给出 80万+ YouTube 订阅口径，并将其定义为多渠道创业媒体。
+
+来源：[2026 创始人访谈逐字稿](https://podscan.fm/podcasts/the-business-of-content-with-simon-owens/episodes/inside-the-youtube-strategy-that-turned-starter-story-into-a-2m-media-brand)、[HubSpot 官方收购说明](https://blog.hubspot.com/marketing/hubspot-starter-story-acquisition)。前者是创始人一手陈述，后者是收购方口径；两者仍不能替代后台归因与审计财务。
 
 ### 2026 至今：HubSpot 所有与免费数据入口
 
@@ -67,6 +80,7 @@
 7. 受访者主动分享所贡献的内容供给和流量比例；
 8. AI 在 Starter Story 内部研究、核验、更新和交付中承担多少工作。
 9. 不同当前页面出现 2,875、2,992、4,418 等案例计数，各自分母和更新时间如何定义。
+10. Reddit、SEO、YouTube、newsletter 与直接访问各自带来的有效用户、邮箱和付费贡献。
 
 ## 五、共同来源与偏差检查
 
@@ -76,6 +90,8 @@
 - Trustpilot 公司会邀请评论，正向样本可能有选择偏差；Reddit 匿名投诉也可能有身份与极端样本偏差；
 - 被收购证明资产对买方有价值，不证明所有用户案例真实、不证明课程有效，也不证明 EarnPath 能复制；
 - 2,992 个成功/收入项目可能放大幸存者偏差，失败分母仍为 `Ø`。
+- HubSpot 官方的 80万 YouTube、30万 newsletter 与 4,500+ 案例口径，和 Starter Story 当前首页的 2,992 项目不是同一分母，不得自行合并；
+- Simon Owens 访谈提供的是创始人一手解释，不是独立渠道归因；“视频最大增长引擎”仍需后台数据才能升级。
 
 ## 六、引用口径
 
