@@ -33,7 +33,9 @@
 | `evidence/` | 来源审计、付款、续约、流失和单位经济证据 |
 | `research/codex/` | Codex 独立研究报告 |
 | `research/claude/` | Claude 独立研究报告 |
-| `research/cross-review/` | 双 AI 互相攻击、冲突与联合裁决 |
+| `research/cross-review/` | 双 AI 互相攻击、冲突与联合裁决；**只放互相质询与联合裁决，单方报告一律进 research/<出处>/ 对应的 Codex／Claude／SK／PB 子目录** |
+| `research/sk/` | SK 单方报告与商业机制拆解 |
+| `research/pb/` | PB 单方评估与假设拆解 |
 | `templates/` | 产品卡、墓碑卡和研究表模板，按需建立 |
 | `_archive/` | 被取代或停止使用的材料 |
 | `meta/` | 治理层：系统指令留档、仓库状态台账（含冻结期观察排队区） |
