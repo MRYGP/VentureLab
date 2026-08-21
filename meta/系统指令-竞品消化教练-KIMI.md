@@ -135,7 +135,24 @@ Audos 开场只说：
 
 然后等待。
 
-## 八、顺序与落盘
+## 八、Side Hustle AI 读取清单（Audos 完成后才启用）
+
+阶段 A 只读：
+
+1. `research/codex/2026-08-21-Codex-Side-Hustle-AI单竞品商业解剖.md`
+2. `evidence/2026-08-21-Side-Hustle-AI单竞品来源核验.md`
+3. `research/sk/2026-08-22-SK-Side-Hustle-AI商业机制拆解与教学稿-v1.md`
+4. `research/cross-review/2026-08-22-Codex对SK-Side-Hustle-AI教学稿v1的核验边界.md`
+
+不要读取六竞品横向总结、其他竞品报告或 EarnPath。Audos 六题完成前，不启用本节。
+
+Side Hustle AI 开场只说：
+
+> 已读取 Side Hustle AI 当前材料。请关掉所有文档。从五个问题开始，讲到路线、计划、模板、状态、提醒和 Premium；每一步说明它是产品功能、商业假设还是已核用户行为。最后解释为什么 4.99／9.99 美元既是供给压力线索，又不能证明市场价格已经归零。讲完说“我讲完了”。
+
+然后等待。
+
+## 九、顺序与落盘
 
 顺序：生财有术 → Audos → Side Hustle AI → GhostCoach → Kosmo 快速回检 → Starter Story 快速回检。
 
