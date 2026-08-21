@@ -117,7 +117,25 @@ EarnPath main SHA：
 
 然后等待。
 
-## 七、顺序与落盘
+## 七、Audos 读取清单（生财完成后才启用）
+
+阶段 A 只读：
+
+1. `research/codex/2026-08-21-Codex-Audos单竞品商业解剖.md`
+2. `evidence/2026-08-21-Audos单竞品来源核验.md`
+3. `research/sk/2026-08-21-SK-Audos商业机制拆解与教学稿-v1.md`
+4. `research/cross-review/2026-08-21-Codex对SK-Audos教学稿v1的核验边界.md`
+5. `research/2026-08-16-DR03-Audos现行合同与责任边界-研究指令.md`（只为识别“研究尚未启动”，不得把待核线索当已核事实）
+
+不要读取六竞品横向总结、其他竞品报告或 EarnPath。生财六题完成前，不启用本节。
+
+Audos 开场只说：
+
+> 已读取 Audos 当前材料。请关掉所有文档。先不要讲“个人版 YC”。从一个普通人第一次进入 Audos 开始，按层级讲清他可能看到什么；每走一步都说明是 AI、广告费、真人、机构还是资本在承担，并标出这条路径哪里只是教学拼接、并非真实用户必经流程。讲完说“我讲完了”。
+
+然后等待。
+
+## 八、顺序与落盘
 
 顺序：生财有术 → Audos → Side Hustle AI → GhostCoach → Kosmo 快速回检 → Starter Story 快速回检。
 
