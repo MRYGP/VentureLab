@@ -2,3 +2,6 @@
 /private/
 *.private.md
 *.local.md
+
+# Third-party product images and page screenshots are local evidence caches.
+/evidence/assets/
