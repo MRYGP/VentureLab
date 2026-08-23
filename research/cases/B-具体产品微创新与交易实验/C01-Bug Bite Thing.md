@@ -6,13 +6,13 @@
 - 品类与国家/市场：昆虫叮咬/蜂蜇吸力缓解工具；美国零售市场（Walmart 商品页：https://www.walmart.com/ip/977577843）
 - 案例类型：成功
 - 建档日期：2026-08-23
-- 原始来源状态：已核原文（官方产品页、官方 About/Mom on a Mission、Walmart 商品与评论页、商标页；财务与销量无审计原文）
+- 原始来源状态：已核原文（官方产品页、官方 About/Mom on a Mission、Walmart 商品与评论页、商标页、澳大利亚 TGA 登记页；PubMed 仅核摘要；财务与销量无审计原文）
 
 ## 2. 买家与原有交易
 
 - 谁使用：被蚊虫叮咬或蜂蜇后寻求止痒/缓解的家庭、户外与露营用户；Walmart 已购评论中出现过儿童、露营、家庭多地点备用等使用场景（https://www.walmart.com/reviews/product/977577843）
 - 谁付款：Walmart 的 `Verified Purchase` 评论可证明至少部分个人消费者付款购买；无法证明付款人结构或企业采购（https://www.walmart.com/reviews/product/977577843）
-- 原产品与原痛点：公司官方叙事称创始人女儿对蚊咬反应强，常见非处方办法未能缓解；此为公司自述，不是独立医学证据（https://www.bugbitething.com/pages/mom-on-a-mission）
+- 原产品与原痛点：公司官方叙事称创始人女儿对蚊咬反应强，常见非处方办法未能缓解；欧洲方称类似吸力工具早已存在。基准品材料为 `F-P`（相关方自述），将其作为改良基准是 `I`；这不是独立医学或品类史证据（https://www.bugbitething.com/pages/mom-on-a-mission；https://bugbitething.eu/who-we-are/）
 - 既有付款或交易证据：`F-M`：Walmart 商品页显示可购买、由 Walmart.com 销售/发货，并有 `Verified Purchase` 评论；销量、利润、复购率：`Ø`（https://www.walmart.com/ip/977577843；https://www.walmart.com/reviews/product/977577843）
 - 来源属性与链接：零售平台页面/消费者评论（Walmart，有平台利益关系）：https://www.walmart.com/ip/977577843；https://www.walmart.com/reviews/product/977577843
 - 此证据能证明什么：至少存在公开零售货架、标价、平台履约与部分已购用户评价。
@@ -37,9 +37,9 @@
 ## 5. 反证与约束
 
 - 失败、投诉、仿制、降价、退货或渠道限制：Walmart 评论页存在 1 星已购评论，称对其无效、塑料便宜、毛发/非平面部位影响吸力；同页显示 10% 的 1 星评分（https://www.walmart.com/reviews/product/977577843）
-- 合规、安全、责任或供应链约束：官方产品页声明不建议用于脸或脖子，并提示敏感部位更容易留下痕迹；商品属于身体接触/缓解类表达，疗效表达需要谨慎（https://www.bugbitething.com/products/bug-bite-thing-suction-tool-black）
+- 合规、安全、责任或供应链约束：官方产品页声明不建议用于脸或脖子，并提示敏感部位更容易留下痕迹；澳大利亚 TGA 登记页将相关 snake/insect venom suction device 列为 Class 1 medical device，但登记不能证明每项疗效主张已被独立验证。商品属于身体接触/缓解类表达，疗效表达需要谨慎（https://www.bugbitething.com/products/bug-bite-thing-suction-tool-black；https://www.tga.gov.au/resources/artg/399711）
 - 创始人资源、渠道或地域的不可复制部分：美国独家分销权、Shark Tank 曝光、Lori Greiner 合作和大零售入场均为创始团队资源，不可直接复制（https://www.bugbitething.com/pages/mom-on-a-mission；https://www.bugbitething.com/pages/about-us）
-- 反证来源与链接：Walmart 负面已购评论：https://www.walmart.com/reviews/product/977577843；官方使用限制：https://www.bugbitething.com/products/bug-bite-thing-suction-tool-black
+- 反证来源与链接：Walmart 负面已购评论：https://www.walmart.com/reviews/product/977577843；官方使用限制：https://www.bugbitething.com/products/bug-bite-thing-suction-tool-black；TGA 登记：https://www.tga.gov.au/resources/artg/399711；非产品特异的吸力装置模拟蛇毒研究：https://pubmed.ncbi.nlm.nih.gov/14747805/
 - 若要推翻本案例的主要判断，需要看到什么：可核原始材料证明主要增长来自专利技术/独家疗效而非命名、演示、零售信任与渠道；或证明零售评论无法对应真实购买。
 
 ## 6. 中国与杨的最小假设
@@ -53,11 +53,14 @@
 
 | 编号 | 结论 | 标签 | 完整来源 | 来源属性/利益关系 | 原文核验 | 能证明什么 | 不能证明什么 | 反证条件 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| E1 | Bug Bite Thing 在美国官方站以 $9.99 标价销售黑色吸力工具。 | F-M | https://www.bugbitething.com/products/bug-bite-thing-suction-tool-black | 公司官方/有销售利益 | 已核原文 | 存在官方商品页、价格、可加购与产品表达。 | 不证明销量、利润、复购或疗效。 | 官方页下线或价格/商品状态变化。 |
-| E2 | Walmart 页面显示白色款 $10.48、由 Walmart.com 销售/发货，并有评分与评论。 | F-M | https://www.walmart.com/ip/977577843 | 零售平台/有销售利益 | 已核原文 | 存在第三方大型零售货架、价格与平台履约。 | 不证明总销量、利润、退货率或获客成本。 | 商品页下线、转为第三方非官方卖家，或评论无法对应真实购买。 |
+| E1 | Bug Bite Thing 在美国官方站以 $9.99 标价销售黑色吸力工具。 | F-P | https://www.bugbitething.com/products/bug-bite-thing-suction-tool-black | 公司官方/有销售利益 | 已核原文 | 存在官方商品页、报价、可加购与产品表达。 | 不证明已有成交、销量、利润、复购或疗效。 | 官方页下线或价格/商品状态变化。 |
+| E2 | Walmart 页面显示白色款 $10.48、由 Walmart.com 销售/发货，并有评分与评论。 | F-P | https://www.walmart.com/ip/977577843 | 零售平台/有销售利益 | 已核原文 | 存在第三方大型零售货架、报价与平台履约。 | 不证明真实成交、总销量、利润、退货率或获客成本。 | 商品页下线或转为第三方非官方卖家。 |
 | E3 | Walmart 评论页含多条 `Verified Purchase` 评论，说明至少部分消费者已购买并使用。 | F-M | https://www.walmart.com/reviews/product/977577843 | 零售平台用户评论/平台与评论者均非审计来源 | 已核原文 | 存在平台标记的已购用户反馈。 | 不证明样本代表性、复购率、整体疗效或长期留存。 | 平台证实 `Verified Purchase` 标记不可靠，或评论被撤回/判定为异常。 |
 | E4 | 欧洲方称该吸力工具早于美国品牌存在，曾以 Poison Extractor/Giftsuger/Sting Xtractor 等名称出现；美国团队 2015 年发现并开始销售。 | F-P | https://bugbitething.eu/who-we-are/；https://www.bugbitething.com/pages/mom-on-a-mission | 公司/合作方自述，有品牌利益 | 已核原文 | 支持“主改良不是首创工具机制，而是美国市场解释、命名与分发”的判断。 | 不证明真实销售规模或美国增长归因。 | 出现可核设计/专利材料证明美国产品有关键功能性首创。 |
-| E5 | Walmart 负面已购评论与官方“不要用于脸或脖子”提示显示效果和使用部位存在限制。 | F-M/F-P | https://www.walmart.com/reviews/product/977577843；https://www.bugbitething.com/products/bug-bite-thing-suction-tool-black | 零售平台用户评论；公司官方限制说明 | 已核原文 | 证明至少存在失败体验、适用部位限制和安全/责任边界。 | 不证明总体失败率或医学无效。 | 更大样本、独立试验或售后数据证明该限制不影响主要场景。 |
+| E5 | Walmart 负面已购评论显示至少存在失败体验。 | F-M | https://www.walmart.com/reviews/product/977577843 | 零售平台用户评论 | 已核原文 | 证明至少部分付款用户报告无效或使用困难。 | 不证明总体失败率或医学无效。 | 平台证实评论标记不可靠，或更大样本显示并非主要问题。 |
+| E5a | 官方“不要用于脸或脖子”提示显示适用部位和责任边界。 | F-P | https://www.bugbitething.com/products/bug-bite-thing-suction-tool-black | 公司官方限制说明 | 已核原文 | 证明公司公开的使用限制。 | 不证明总体伤害率或医学效果。 | 官方更正限制，或独立安全资料改变边界。 |
+| E6 | 澳大利亚 TGA 登记页列出 The Kelly Company 的 snake/insect venom suction device，manufacturer 为 The Bug Bite Thing Europe ApS，Class 1。 | F-M | https://www.tga.gov.au/resources/artg/399711 | 监管机构/无销售利益 | 已核原文 | 证明澳大利亚 ARTG 登记与器械分类。 | 不证明 TGA 已独立验证每项市场宣传或临床疗效。 | 登记被撤销、更正，或主体/产品对应关系被证明不一致。 |
+| E7 | 一项 8 名志愿者的 Sawyer Extractor 模拟蛇毒研究报告抽取量极低。 | F-M | https://pubmed.ncbi.nlm.nih.gov/14747805/ | 学术研究/非 Bug Bite Thing 产品试验 | 仅核摘要 | 证明另一吸力装置在模拟蛇毒模型中的结果，可作为机制层反证线索。 | 不能证明 Bug Bite Thing 对普通蚊虫局部瘙痒无效。 | 出现目标设备、目标虫咬、足够样本的产品特异随机对照试验。 |
 
 ## 8. 暂不下结论
 

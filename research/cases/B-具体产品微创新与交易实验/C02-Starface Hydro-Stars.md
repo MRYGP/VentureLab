@@ -12,8 +12,8 @@
 
 - 谁使用：脸上有表层痘、白头或想防止抠抓的人群；官方明确称 Hydro-Stars 适合 surface-level pimples 和 whiteheads，也可用于“想要一点额外覆盖”的时刻（https://starface.world/products/hydro-stars-big-yellow）
 - 谁付款：Target 与 Walmart 商品页的 `Verified purchase` / `Verified Purchase` 评论可证明至少部分个人消费者付款购买；无法证明购买者年龄结构、购买频次或复购率（https://www.target.com/p/-/A-80371284；https://www.walmart.com/ip/666044188）
-- 原产品与原痛点：水胶体痘痘贴本来已存在，且早期同类多以隐形/肤色遮盖为主；痛点不是“没有贴”，而是长痘被羞耻化、只能遮盖或假装不存在（https://fashionista.com/2019/09/julie-schott-starface-pimple-patches；https://www.vogue.com/article/starface-made-pimple-patches-a-status-symbol-now-its-making-them-disappear）
-- 既有付款或交易证据：`F-M`：Starface 官方站、Target、Walmart 均有在售商品页与价格；Target/Walmart 均有已购评论。销量、利润、复购率：`Ø`（https://starface.world/products/hydro-stars-refill；https://www.target.com/p/-/A-80371284；https://www.walmart.com/ip/666044188）
+- 原产品与原痛点：水胶体痘痘贴本来已存在，且早期同类多以隐形/肤色遮盖为主；痛点不是“没有贴”，而是长痘被羞耻化、只能遮盖或假装不存在。基准品证据等级为 `I`：媒体采访与品牌叙事支持这一比较，但没有早期品类销售结构原文（https://fashionista.com/2019/09/julie-schott-starface-pimple-patches；https://www.vogue.com/article/starface-made-pimple-patches-a-status-symbol-now-its-making-them-disappear）
+- 既有付款或交易证据：`F-P`：Starface 官方站及零售平台显示报价与在售状态；`F-M`：Target/Walmart 的平台已购评论证明至少部分消费者付款。销量、利润、复购率：`Ø`（https://starface.world/products/hydro-stars-refill；https://www.target.com/p/-/A-80371284；https://www.walmart.com/ip/666044188）
 - 来源属性与链接：公司官方商品页（有销售利益）：https://starface.world/products/hydro-stars-big-yellow；零售平台与用户评论（平台有销售利益）：https://www.target.com/p/-/A-80371284；https://www.walmart.com/ip/666044188
 - 此证据能证明什么：存在公开零售货架、标价、平台履约和部分平台标记的已购用户反馈。
 - 此证据不能证明什么：不能证明总销量、利润、复购率、获客成本、治疗效果普遍性、用户年龄结构或中国市场需求。
@@ -53,7 +53,7 @@
 
 | 编号 | 结论 | 标签 | 完整来源 | 来源属性/利益关系 | 原文核验 | 能证明什么 | 不能证明什么 | 反证条件 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| E1 | Starface 官方售卖 Hydro-Stars + Big Yellow，32 片+镜盒标价 $14.99；官方补充装 32 片标价 $10.99。 | F-M | https://starface.world/products/hydro-stars-big-yellow；https://starface.world/products/hydro-stars-refill | 公司官方/有销售利益 | 已核原文 | 存在官方商品页、当前标价、形态与使用说明。 | 不证明销量、利润、复购率或疗效普遍性。 | 官方页下线、价格/规格变化，或商品不可购买。 |
+| E1 | Starface 官方售卖 Hydro-Stars + Big Yellow，32 片+镜盒标价 $14.99；官方补充装 32 片标价 $10.99。 | F-P | https://starface.world/products/hydro-stars-big-yellow；https://starface.world/products/hydro-stars-refill | 公司官方/有销售利益 | 已核原文 | 存在官方商品页、当前报价、形态与使用说明。 | 不证明已有成交、销量、利润、复购率或疗效普遍性。 | 官方页下线、价格/规格变化，或商品不可购买。 |
 | E2 | Target/Walmart 上有 Starface Hydro-Stars 零售页、评分和已购评论。 | F-M | https://www.target.com/p/-/A-80371284；https://www.walmart.com/ip/666044188 | 零售平台/有销售利益；评论为平台用户内容 | 已核原文 | 存在第三方零售货架与平台标记的已购反馈。 | 不证明购买规模、利润、复购率或样本代表性。 | 平台移除商品，或证实已购评论标记不可靠。 |
 | E3 | Starface 的首轮关键改良是把已有水胶体痘痘贴做成装饰性星形，而非发明水胶体贴本身。 | I | https://fashionista.com/2019/09/julie-schott-starface-pimple-patches；https://www.vogue.com/article/starface-made-pimple-patches-a-status-symbol-now-its-making-them-disappear | 媒体采访/二手媒体，含创始人口径 | 已核原文 | 支持“形态改良：遮盖/治疗用品转为可见装饰”的机制判断。 | 不证明星形单独导致成交，也不证明同形态在中国成立。 | 出现设计、专利或临床材料证明核心购买理由是独家疗效或材料优势。 |
 | E4 | 官方 Clear 产品页反向证明 Starface 自己区分“想装饰”与“想低调”的使用情境。 | F-P | https://starface.world/products/hydro-star-clear | 公司官方/有销售利益 | 已核原文 | 支持彩色星形承担可见装饰场景，透明款承担低调遮盖场景。 | 不证明消费者真实分群比例或各 SKU 销售占比。 | 消费者购买数据证明透明款与彩色款没有场景差异。 |

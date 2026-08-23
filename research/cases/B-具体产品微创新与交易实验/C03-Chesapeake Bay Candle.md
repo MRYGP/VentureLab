@@ -4,7 +4,7 @@
 
 - 具体产品：Chesapeake Bay Candle / Chesapeake Bay Fragrance scented candles（现品牌页：https://www.newellbrands.com/our-brands/chesapeake-bay-candle；现销售页：https://chesapeake.yankeecandle.com/）
 - 品类与国家/市场：香薰蜡烛与家居香氛；美国零售市场，早期涉及中国制造与美国/海外销售
-- 案例类型：成功
+- 案例类型：成功（商业存在已证；改良归因较弱）
 - 建档日期：2026-08-23
 - 原始来源状态：已核原文（Newell 品牌页、SEC 10-K、Chesapeake/Yankee Candle 销售页、Target/Walmart 零售页、US-China Business Council 归档文章；利润与复购无审计原文）
 
@@ -12,8 +12,8 @@
 
 - 谁使用：购买家居装饰、礼品、放松/氛围和房间香气产品的家庭消费者；现品牌页称其以自然灵感香气和简洁设计促进 mindfulness/harmony（https://www.newellbrands.com/our-brands/chesapeake-bay-candle）
 - 谁付款：早期有北卡礼品展小店订单和 Kirkland's 等零售商订单的二手报道；当前 Target/Walmart 页面可见平台零售购买与已购评论；Newell 2017 年收购是正式交易（https://www.uschina.org/articles/pacific-trade-international-inc/；https://www.target.com/p/-/A-94860158；https://www.walmart.com/ip/972728811；https://www.sec.gov/Archives/edgar/data/814453/000119312518067603/d494599d10k.htm）
-- 原产品与原痛点：1990 年代美国白色无香蜡烛主要作为视觉/节日装饰；徐梅观察到家居用品设计相对传统，并希望蜡烛有更丰富内涵。此为二手媒体/行业归档叙事，非消费者调研原文（https://www.uschina.org/articles/pacific-trade-international-inc/；https://qnck.cyol.com/html/2016-11/02/nw.D110000qnck_20161102_1-16.htm）
-- 既有付款或交易证据：`F-M`：SEC 文件披露 Newell 2017 年以约 $75 million 现金收购 Chesapeake Bay Candle；Target/Walmart 页面有标价、评分和平台已购评论。利润、复购率：`Ø`。累计销量：二手媒体称有大规模销售，但本卡未见审计销量原文，不作强证据（https://www.sec.gov/Archives/edgar/data/814453/000119312518067603/d494599d10k.htm；https://www.target.com/p/-/A-94860158；https://www.walmart.com/ip/972728811）
+- 原产品与原痛点：1990 年代美国白色无香蜡烛主要作为视觉/节日装饰；徐梅观察到家居用品设计相对传统，并希望蜡烛有更丰富内涵。基准品证据等级为 `I`：二手媒体/行业归档叙事，非消费者调研或品类销售原文（https://www.uschina.org/articles/pacific-trade-international-inc/；https://qnck.cyol.com/html/2016-11/02/nw.D110000qnck_20161102_1-16.htm）
+- 既有付款或交易证据：`F-M`（公司交易）：SEC 文件披露 Newell 2017 年以约 $75 million 现金收购 Chesapeake Bay Candle；这不是消费者付款证据。`F-M`（消费者交易）：Target/Walmart 平台已购评论证明至少部分消费者付款；在售页只能证明报价。利润、复购率：`Ø`。累计销量：二手媒体线索，不作强证据（https://www.sec.gov/Archives/edgar/data/814453/000119312518067603/d494599d10k.htm；https://www.target.com/p/-/A-94860158；https://www.walmart.com/ip/972728811）
 - 来源属性与链接：监管文件/正式交易材料：https://www.sec.gov/Archives/edgar/data/814453/000119312518067603/d494599d10k.htm；公司官方/现所有者品牌页：https://www.newellbrands.com/our-brands/chesapeake-bay-candle；零售平台：https://www.target.com/p/-/A-94860158；https://www.walmart.com/ip/972728811；行业归档/二手报道：https://www.uschina.org/articles/pacific-trade-international-inc/
 - 此证据能证明什么：Chesapeake Bay Candle 已形成可被大公司收购的品牌资产；当前仍存在公开零售货架、标价和已购评论；早期订单和香薰化过程有二手来源记录。
 - 此证据不能证明什么：不能证明利润率、复购率、单 SKU 贡献、获客成本、香气本身单独导致购买，或中国本土普通卖家可复制。
@@ -56,11 +56,12 @@
 | E1 | Chesapeake Bay Candle 由 Mei Xu 和 David Wang 于 1994 年在马里兰州 Annapolis 创立，2017 年加入 Newell Brands。 | F-P | https://www.newellbrands.com/our-brands/chesapeake-bay-candle | 现所有者官方/有品牌利益 | 已核原文 | 证明品牌主体、创始人与并入 Newell 的时间。 | 不证明早期创业细节、利润或消费者购买动机。 | 公司更正品牌史或出现更高优先级法律文件冲突。 |
 | E2 | Newell 2017 年以约 $75 million 现金收购 Chesapeake Bay Candle。 | F-M | https://www.sec.gov/Archives/edgar/data/814453/000119312518067603/d494599d10k.htm | SEC 年报/正式交易材料 | 已核原文 | 证明一次可核的品牌/公司交易价值。 | 不证明利润、复购、单品强度或今天仍高速增长。 | SEC 文件修订或交易口径被重述。 |
 | E3 | Target/Walmart 当前存在 Chesapeake Bay Candle/Fragrance 零售页、标价、评分和已购评论。 | F-M | https://www.target.com/p/-/A-94860158；https://www.walmart.com/ip/972728811 | 零售平台/有销售利益；评论为平台用户内容 | 已核原文 | 证明公开零售货架和部分已购用户反馈。 | 不证明销量、利润、复购率或样本代表性。 | 商品页下线，或平台证实评论标记不可靠。 |
-| E4 | 早期 North Carolina 礼品展收到约 $90,000 蜡烛订单，并开始 Chesapeake Bay Candle 品牌；随后尝试进口香精油到中国生产香薰蜡烛。 | F-M/I | https://www.uschina.org/articles/pacific-trade-international-inc/ | 行业归档/二手报道，有采访口径 | 已核原文 | 支持早期交易线索和“蜡烛从视觉装饰转向香薰体验”的机制。 | 不证明订单合同原文、利润或消费者真实复购。 | 找到原始订单/合同缺失或报道事实错误。 |
-| E5 | Target 负面评论显示价格上涨、容量下降、香味强度等是该类产品的反证/限制。 | F-M | https://www.target.com/p/-/A-94860158 | 零售平台用户评论/平台有销售利益 | 已核原文 | 提供价格、容量、香味和竞品替代的风险线索。 | 不证明总体失败率或品牌衰退。 | 大样本售后/复购/价格弹性数据证明这些问题不影响主要购买理由。 |
+| E4 | 行业归档报道转述创始人口径：早期 North Carolina 礼品展收到约 $90,000 蜡烛订单。 | F-M | https://www.uschina.org/articles/pacific-trade-international-inc/ | 行业归档/二手报道，金额来自受访者口径 | 已核原文 | 提供早期付款行为线索。 | 不证明订单合同原文、利润、订单发生在香薰升级之后或消费者真实复购。 | 原始订单与报道不符，或订单实际发生在另一产品/主体。 |
+| E5 | 早期订单与随后进口香精油的叙事支持“视觉装饰转向香气+设计”的机制解释。 | I | https://www.uschina.org/articles/pacific-trade-international-inc/ | 行业归档/二手报道，有采访口径 | 已核原文 | 支持一个可能的产品演化路径。 | 不证明该改良独立导致后续增长、收购或当前消费者购买。 | 时间线显示香气变化并未先于增长，或购买理由主要是低价/渠道。 |
+| E6 | Target 负面评论显示价格上涨、容量下降、香味强度等是该类产品的反证/限制。 | F-M | https://www.target.com/p/-/A-94860158 | 零售平台用户评论/平台有销售利益 | 已核原文 | 提供价格、容量、香味和竞品替代的风险线索。 | 不证明总体失败率或品牌衰退。 | 大样本售后/复购/价格弹性数据证明这些问题不影响主要购买理由。 |
 
 ## 8. 暂不下结论
 
 - 可比较的机制线索：视觉物件加嗅觉层；普通装饰品转情绪/氛围消费；类似“平面海报加互动声光”“补丁加刺绣/徽章”“包装加开箱仪式”的多感官增值。
 - 不得外推的部分：不得把 $75 million 收购写成利润；不得把二手媒体销量写成审计销量；不得把美国香薰消费文化外推到中国；不得把供应链能力、零售商关系和 Newell 体系当作普通人天然可得。
-- 下一步状态：可进入横向比较
+- 下一步状态：可进入横向比较（边界/弱归因）
