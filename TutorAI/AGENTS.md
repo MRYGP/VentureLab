@@ -4,7 +4,7 @@
 
 `TutorAI/` 是 VentureLab 内部的专项第 0 步研究区，不是已经成立的创业项目，也不自动成为方向 B 候选、TradeLab 实验或 PB/SK 已确认方向。
 
-杨于 2026-08-27 明确授权本目录先做一轮竞品深度研究，并讨论“人 + AI”模式；授权不包含注册付费产品、购买学习机、联系未成年人、招募人员、对外承诺、提交 Git 或跨仓写入。
+杨于 2026-08-27 明确授权本目录先做一轮竞品深度研究，并讨论“人 + AI”模式；同日授权形成研究协作者画像。授权不包含注册付费产品、购买学习机、联系未成年人、发布招聘、接触候选人、对外承诺、提交 Git 或跨仓写入。
 
 本目录规则补充根目录 `AGENTS.md`。发生冲突时，以 `D:\VentureLab\00-宪章.md`、根目录 `AGENTS.md` 和当前有效裁决为准。
 
@@ -41,9 +41,11 @@
 6. 本文件
 7. `D:\VentureLab\TutorAI\CLAUDE_PROJECT_INSTRUCTIONS.md`
 8. `D:\VentureLab\TutorAI\DEEP_RESEARCH_PROMPT.md`
-9. `D:\VentureLab\inbox\2026-08-22-任务内嵌式AI练考与拒签机制-未审计讨论.md`
-10. `D:\VentureLab\research\codex\2026-08-04-Codex-Yoodli校准第一轮独立研究.md`
-11. `D:\VentureLab\evidence\2026-08-04-Yoodli第一轮来源映射-待交叉核验.md`
+9. `D:\VentureLab\TutorAI\2026-08-27-第0步讨论纪要与开放机会地图-未审计.md`
+10. `D:\VentureLab\TutorAI\研究与试验实习生画像-长沙高校高年级学生或研究生.md`
+11. `D:\VentureLab\inbox\2026-08-22-任务内嵌式AI练考与拒签机制-未审计讨论.md`
+12. `D:\VentureLab\research\codex\2026-08-04-Codex-Yoodli校准第一轮独立研究.md`
+13. `D:\VentureLab\evidence\2026-08-04-Yoodli第一轮来源映射-待交叉核验.md`
 
 只读与当前任务直接有关的其他材料，不做全仓扫描。
 
