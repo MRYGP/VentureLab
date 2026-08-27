@@ -11,9 +11,10 @@ innovation_patterns: ["环境问题局部化", "多场景表达", "无电方案"
 outcomes: ["众筹结束", "交付待观察"]
 markets: ["美国众筹"]
 source_platforms: ["Kickstarter", "官方落地页"]
-learning_status: 待杨观察
-yang_status: 尚未开口
+learning_status: 观察中
+yang_status: 未开口
 evidence_ceiling: F-P·平台显示口径
+source_verification: 原页已核
 rag_status: canonical
 last_updated: 2026-08-27
 recall_triggers: ["把环境问题缩小成身体局部处理", "无电降温", "产品效果时长决定场景", "多场景叙事可能掩盖单场景不足"]
@@ -83,3 +84,4 @@ recall_triggers: ["把环境问题缩小成身体局部处理", "无电降温", 
 ## 11. 更新记录
 
 - 2026-08-27：建立产品记忆卡；等待杨第一印象后再读 Comments 和前代交付记录。
+- 2026-08-27：按 schema v1.1 统一状态并登记项目页、FAQ、官方落地页和前序项目页已经回源。

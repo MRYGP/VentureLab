@@ -11,9 +11,10 @@ innovation_patterns: ["解释与信任", "既有机制重新包装", "渠道放�
 outcomes: ["大型零售在售", "边界成功"]
 markets: ["美国零售"]
 source_platforms: ["品牌官网", "Walmart", "Shark Tank"]
-learning_status: 已形成正式案例
-yang_status: 历史案例
+learning_status: 已理解
+yang_status: 未开口
 evidence_ceiling: F-M·已购评论
+source_verification: 原页已核
 rag_status: canonical
 last_updated: 2026-08-27
 recall_triggers: ["已有工具因为难理解而卖不动", "用触发场景给产品命名", "渠道同时承担教育和信任", "产品机制不新但市场表达改变"]
@@ -81,3 +82,4 @@ recall_triggers: ["已有工具因为难理解而卖不动", "用触发场景给
 ## 11. 更新记录
 
 - 2026-08-27：从 C01 建立产品级召回卡；详细证据继续以正式案例为准。
+- 2026-08-27：按 schema v1.1 统一理解状态、杨观察状态与来源核验字段。

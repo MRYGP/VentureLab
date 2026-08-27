@@ -11,9 +11,10 @@ innovation_patterns: ["任务组合", "场景重定义", "功能堆叠"]
 outcomes: ["众筹爆发", "部分未履约", "停止运营"]
 markets: ["美国众筹与零售"]
 source_platforms: ["Kickstarter", "独立媒体"]
-learning_status: 已形成失败案例
-yang_status: 历史案例
+learning_status: 已理解
+yang_status: 未开口
 evidence_ceiling: F-M·众筹付款与未履约
+source_verification: 原页已核
 rag_status: canonical
 last_updated: 2026-08-27
 recall_triggers: ["强演示不等于能交付", "功能堆叠放大故障和成本", "众筹定价低于真实制造运输成本", "多项预算组合成一个产品"]
@@ -79,3 +80,4 @@ recall_triggers: ["强演示不等于能交付", "功能堆叠放大故障和成
 ## 11. 更新记录
 
 - 2026-08-27：从 C09 建立失败产品召回卡；详细证据继续以正式案例为准。
+- 2026-08-27：按 schema v1.1 统一理解状态、杨观察状态与来源核验字段。

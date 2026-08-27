@@ -1,6 +1,6 @@
 # 产品卡字段规范
 
-> 版本：v1.0 · 2026-08-27
+> 版本：v1.1 · 2026-08-27
 > 目标：让每张产品卡既适合杨浏览，也适合关键词检索和未来 RAG 切片。
 
 ## 一、文件头
@@ -22,8 +22,9 @@ outcomes: []
 markets: []
 source_platforms: []
 learning_status: 待观察
-yang_status: 待杨观察
+yang_status: 未开口
 evidence_ceiling: Ø
+source_verification: Agent转述未回源
 rag_status: canonical
 last_updated: YYYY-MM-DD
 recall_triggers: []
@@ -32,10 +33,13 @@ recall_triggers: []
 
 字段约束：
 
-- `id`、`name`、`learning_status`、`rag_status`、`last_updated` 必填；
+- `id`、`name`、`learning_status`、`yang_status`、`source_verification`、`rag_status`、`last_updated` 必填；
 - `legacy_ids` 保存 `Cxx`、`KS-Pxxx` 等旧编号；
 - `outcomes` 只写已核状态或明确的待观察状态；
+- `learning_status` 只描述仓库对产品的理解进度，取 `待观察`、`观察中`、`已理解`、`已暂停`、`待结果回看`；不得用它表达是否已建正式案例；
+- `yang_status` 只描述杨本人是否形成过观察，取 `未开口`、`已给第一印象`、`已完成观察`、`已判断暂停`；不得用 Agent 分析代替杨开口；
 - `evidence_ceiling` 表示当前最高可用证据，不替代正文分项标记；
+- `source_verification` 取 `原页已核`、`Agent转述未回源`、`混合`。它描述整张卡的来源核验天花板，不替代正文逐条来源属性；`混合` 卡中的高负重陈述仍须说明哪些已回原页、哪些只是转述；
 - `rag_status` 取 `canonical`、`provisional`、`excluded`；默认检索只读 `canonical`；
 - `recall_triggers` 使用杨可能产生的任务或灵感语言，不写空泛品类词。
 
@@ -77,6 +81,7 @@ recall_triggers: []
 4. “可迁移方向”写机制和条件，不自动生成方案假设。
 5. “杨的观察”链接原始观察文件，并区分原始判断与后续修正。
 6. 产品卡更新只追加日期记录；发生重大结论变化时说明旧判断为何被修正。
+7. 从 Agent 学习卡转录的平台数字、项目方说法或用户原句，在没有回到原页前不得只写成裸 `F-P`；至少保留 `Agent转述未回源` 的卡级或逐条标记。
 
 ## 四、关联关系
 

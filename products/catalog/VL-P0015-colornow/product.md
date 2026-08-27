@@ -12,8 +12,9 @@ outcomes: ["众筹结束", "本体学习暂停"]
 markets: ["新加坡众筹", "全球便携办公"]
 source_platforms: ["Kickstarter"]
 learning_status: 已暂停
-yang_status: 已完成首轮观察
+yang_status: 已判断暂停
 evidence_ceiling: F-P·平台显示口径
+source_verification: 混合
 rag_status: canonical
 last_updated: 2026-08-27
 recall_triggers: ["把家具压缩成随身装备", "把临时支撑面并入必带对象", "包变工作台", "垂直人群专用携带系统"]
@@ -81,3 +82,4 @@ recall_triggers: ["把家具压缩成随身装备", "把临时支撑面并入必
 ## 11. 更新记录
 
 - 2026-08-27：建立产品记忆卡；本体暂停，保留“必带对象 + 临时支撑面”迁移触发。
+- 2026-08-27：按 schema v1.1 统一状态并标记混合来源；相邻产品页已核，众筹金额与支持者数仍来自首批 Agent 学习卡转述。

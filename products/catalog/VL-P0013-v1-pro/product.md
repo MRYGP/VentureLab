@@ -12,8 +12,9 @@ outcomes: ["众筹结束", "交付待观察"]
 markets: ["美国众筹", "中国同类供给"]
 source_platforms: ["Kickstarter", "品牌与零售页面"]
 learning_status: 观察中
-yang_status: 已完成事前观察
+yang_status: 已给第一印象
 evidence_ceiling: F-P·平台显示口径
+source_verification: 混合
 rag_status: canonical
 last_updated: 2026-08-27
 recall_triggers: ["把事后检查提前成实时反馈", "高质量方案因为不可见而难用", "兼容性吞掉产品价值", "一个小配件合并多个创作动作"]
@@ -86,3 +87,4 @@ recall_triggers: ["把事后检查提前成实时反馈", "高质量方案因为
 ## 11. 更新记录
 
 - 2026-08-27：建立首张产品记忆卡；当前学习任务继续读取 Comments、现有 Updates 与项目方交付承诺，未来交付结果作为时间依赖项回看。
+- 2026-08-27：按 schema v1.1 标记为混合来源；项目页、FAQ 与 Community 页已有原页核验，首批学习卡中的其他转述仍须逐条回源。
