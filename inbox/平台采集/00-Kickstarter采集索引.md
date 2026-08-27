@@ -3,17 +3,19 @@
 > 建立日期：2026-08-27
 > 性质：Kickstarter 平台采集原始报告的入口索引；不是案例库、假设账本或 TradeLab 候选。
 > 当前裁决：第 1 批正式学习卡以 `CHaTGPT5.5.md` 为主采集结果；Claude 报告为半卡；普通 ChatGPT 报告只保留入口。
+> 状态职责：本文件只维护产品身份、规范 URL、来源报告和材料质量。产品当前学习状态统一以 [`products/INDEX.md`](../../products/INDEX.md) 为准。
 
 ## 使用边界
 
-1. 本索引只登记项目名、规范 Kickstarter URL、来源报告和当前处理状态。
+1. 本索引只登记项目名、规范 Kickstarter URL、来源报告和材料质量。
 2. 三份原始报告保持原样，不在本索引中融合机制、成功因子或商业判断。
 3. 三个 AI 的共识不构成独立市场证据；后续引用事实仍须回到 Kickstarter 项目页。
 4. 未经杨另行授权，不从本索引建立 C 编号、B-H 编号或 TradeLab 候选。
+5. 下表“历史动作”与下方人工消化段冻结在 2026-08-27，只用于解释当时为什么继续或暂停；后续状态变化不得在本文件更新。
 
 ## 第 1 批产品入口
 
-| 编号 | 产品原名 | Kickstarter URL | 来源报告 | 材料状态 | 当前动作 |
+| 编号 | 产品原名 | Kickstarter URL | 来源报告 | 材料状态 | 历史动作（冻结） |
 | --- | --- | --- | --- | --- | --- |
 | KS-P001 | V1 Pro: Stop Guessing, Start Shooting – Rear-Cam Live View | https://www.kickstarter.com/projects/1932504/cardon-v1-pro-never-guess-again-magnetic-vlog-monitor | `inbox/平台采集/2026-08-26-Kickstarter-第1批-CHaTGPT5.5.md` | 正式学习卡＋杨事前观察＋FAQ | 已选·下一步 Comments |
 | KS-P002 | Breeze 2.0: Stay Cool When it's Hot, Sleep Better, Walk Easy | https://www.kickstarter.com/projects/outdoor-home-fitness/breeze-20-by-flagship-better-sleep-body-cooler-pets-travel | `inbox/平台采集/2026-08-26-Kickstarter-第1批-CHaTGPT5.5.md` | 正式学习卡 | 未开始杨观察 |
@@ -36,9 +38,11 @@
 - 产品数：15 个。
 - URL 处理：已去除 `?ja=z2aimakj`、`?category_id=28&total_hits=10173` 等非必要追踪或发现页参数。
 - 原始报告：三份原始报告未修改、未融合、未重命名。
-- 历史动作：最初默认先拆 `KS-P003｜ColorNow`；该对象已完成首轮观察并暂停。现行动作以下方“当前人工消化进度”和状态台账为准。
+- 历史动作：最初默认先拆 `KS-P003｜ColorNow`；该对象已完成首轮观察并暂停。后续产品状态查 [`products/INDEX.md`](../../products/INDEX.md)，当前执行顺序查 `meta/仓库状态台账.md`；本索引不再更新动作状态。
 
-## 当前人工消化进度（2026-08-27）
+## 历史人工消化快照（冻结于 2026-08-27）
+
+本节不再更新。产品当前学习状态查 [`products/INDEX.md`](../../products/INDEX.md)，仓库当前唯一动作查 `meta/仓库状态台账.md`。
 
 1. `KS-P003 ColorNow`：杨已完成首轮观察；保留“把临时支撑面并入本来必须携带的对象”和垂直人群思路，本体暂停。
 2. `KS-P005 Module Sling`：杨第一眼无感，并指出继续沿包具推荐可能是上一对象造成的近因锚定；暂停，不用后续材料强行找意义。
