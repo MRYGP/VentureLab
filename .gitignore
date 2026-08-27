@@ -5,3 +5,6 @@
 
 # Third-party product images and page screenshots are local evidence caches.
 /evidence/assets/
+
+# Third-party full-text transcripts kept only for local triage.
+/inbox/2/
