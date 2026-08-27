@@ -29,7 +29,7 @@
 | VL-P0011 | Amazon Dash Button | C11 | 待迁移 | 补货；物理入口；平台吸收；低激活 | [案例](../research/cases/B-具体产品微创新与交易实验/C11-Amazon%20Dash%20Button.md) |
 | VL-P0012 | FURemover Original Broom | C12 | 待迁移 | 宠物毛发；末端清理；普通渠道长销；评论壁垒 | [案例](../research/cases/B-具体产品微创新与交易实验/C12-FURemover%20Original%20Broom.md) |
 | VL-P0013 | V1 Pro Rear-Cam Live View | KS-P001 | 已建卡·观察中 | 后摄自拍；实时反馈；磁吸配件；兼容性 | [产品卡](catalog/VL-P0013-v1-pro/product.md) |
-| VL-P0014 | Breeze 2.0 | KS-P002 | 已建卡·待杨观察 | 局部降温；相变材料；无电；时长约束 | [产品卡](catalog/VL-P0014-breeze-2-0/product.md) |
+| VL-P0014 | Breeze 2.0 | KS-P002 | 已建卡·观察中 | 局部降温；相变材料；无电；时长约束 | [产品卡](catalog/VL-P0014-breeze-2-0/product.md) |
 | VL-P0015 | ColorNow Ultra-portable Workspace | KS-P003 | 已建卡·已暂停 | 便携工作面；家具压缩；包桌迁移；垂直人群 | [产品卡](catalog/VL-P0015-colornow/product.md) |
 | VL-P0016 | Misenware | KS-P004 | 待迁移 | 食品容器；多设备兼容；安全表达；品牌放大 | [学习卡](../inbox/平台采集/2026-08-26-Kickstarter-第1批-CHaTGPT5.5.md) |
 | VL-P0017 | Module Sling System | KS-P005 | 待迁移·已暂停 | EDC；模块收纳；专业结构词；近因锚定 | [学习卡](../inbox/平台采集/2026-08-26-Kickstarter-第1批-CHaTGPT5.5.md) |
