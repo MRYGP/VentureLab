@@ -45,6 +45,7 @@
 | `PAT-003` | [首公里代做](PAT-003-首公里代做.md) | 种子 | Misen Pre-Seasoned Carbon Steel Pan |
 | `PAT-004` | [时间判断嵌入场景必需品](PAT-004-时间判断嵌入场景必需品.md) | 种子 | 学生计时笔及跨场景迁移观察 |
 | `PAT-005` | [低频能力寄生于高频载体](PAT-005-低频能力寄生于高频载体.md) | 种子 | DARTER、VIPERADE VAT2 |
+| `PAT-006` | [结果直达与用户退出过程](PAT-006-结果直达与用户退出过程.md) | 种子 | New-Skin Liquid Bandage、Tesla Cybercab |
 
 ## 五、维护纪律
 
