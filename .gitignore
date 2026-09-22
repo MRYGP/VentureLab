@@ -1,5 +1,6 @@
 # Local or private working material
 /private/
+/tmp/
 *.private.md
 *.local.md
 
